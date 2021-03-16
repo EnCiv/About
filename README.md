@@ -1,7 +1,7 @@
 # About
 [EnCiv](http://enciv.org) Is a 501(c)(3) nonprofit dedicated to making democracy work better online. 
 
-If you would like to get involved, join the [slack](enciv.slack.com) workspace.  We have regular meeting online on Wedensday's at 6:30pm Pacific Time.  See the slack channel for announcments and links.
+If you would like to get involved, join the [slack](https://docs.google.com/forms/d/e/1FAIpQLSee58BUiy12dtloG9pLITsELcNldIwXcEtCotV9r95BZJSIVA/viewform?usp=sf_link) workspace.  We have regular meeting online on Wedensday's at 6:30pm Pacific Time.  See the slack channel for announcments and links. But you don't have to be able to make the regular meeting to contribute. Join the slack and introduce yourself.
 
 We have several active projects:
 - **[Undebate](https://github.com/EnCiv/undebate)**- How do you engage candidates in 1000’s of elections, in productive Q&A so voters can quickly decide? 
